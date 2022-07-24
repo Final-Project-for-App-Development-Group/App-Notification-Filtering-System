@@ -1,0 +1,7 @@
+{
+  "name": "notif mute system",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
