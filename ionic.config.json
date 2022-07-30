@@ -1,7 +1,7 @@
 {
-  "name": "notif mute system",
+  "name": "ionic-4-local-notifications-example",
   "integrations": {
-    "capacitor": {}
+    "cordova": {}
   },
   "type": "angular"
 }
